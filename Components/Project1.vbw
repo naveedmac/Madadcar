@@ -1,0 +1,13 @@
+p = 0, 0, 0, 0, C, 22, 22, 399, 368, C
+Domain = 44, 44, 421, 390, Z
+Process_Name_ = 66, 66, 443, 412, 
+Users = 88, 88, 465, 434, 
+Session = 110, 110, 487, 456, 
+Area = 132, 132, 509, 478, 
+Terminal = 154, 154, 531, 500, 
+Thread_Name_ = 0, 0, 377, 346, 
+Location = 22, 22, 399, 368, 
+Owner = 44, 44, 421, 390, 
+Car = 66, 66, 443, 412, 
+modClassIdGenerator = 88, 88, 465, 434, 
+modErrorHandling = 110, 110, 487, 456, 

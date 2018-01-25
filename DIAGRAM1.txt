@@ -1,0 +1,17 @@
+/*
+   Saturday, April 19, 2003 9:02:38 AM
+   User: mc
+   Server: ALISAMAD
+   Database: MadadCar
+   Application: MS SQLEM - Data Tools
+*/
+
+'owner (mc)' table saved successfully
+'location (mc)' table saved successfully
+'domainn (mc)' table
+- Unable to create index 'PK_domainn'.  
+ODBC error: [Microsoft][ODBC SQL Server Driver][SQL Server]CREATE UNIQUE INDEX terminated because a duplicate key was found for index ID 1. Most significant primary key is '1'.
+[Microsoft][ODBC SQL Server Driver][SQL Server]Could not create constraint. See previous errors.
+[Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+
